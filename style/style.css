@@ -1,6 +1,6 @@
 /* Estilos para el botón */
 button {
-  background-color: #28a745; /* Fondo verde vibrante */
+  background-color: #2831a7; /* Fondo azul vibrante */
   color: white; /* Texto blanco */
   padding: 10px 20px; /* Espaciado interno */
   margin: 8px 5px; /* Margen */
@@ -12,12 +12,12 @@ button {
 }
 /* Estilos del botón al pasar el ratón */
 button:hover {
-  background-color: #218838; /* Un verde un poco más oscuro al pasar el ratón */
+  background-color: #322188; /* Un azul un poco más oscuro al pasar el ratón */
   transform: translateY(-1px); /* Efecto ligero de "levantamiento" */
 }
 body {
   font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
-  background-color: #8cf0c8; /* Fondo claro */
+  background-color: #968cf0; /* Fondo claro */
   color: #212529; /* Texto oscuro */
   margin: 0;
   padding: 20px;
@@ -29,11 +29,11 @@ input[type="number"] {
   padding: 10px 12px; /* Espaciado interno */
   margin: 8px 5px; /* Margen alrededor de cada campo */
   display: inline-block;
-  border: 1px solid #01ad51; /* Borde suave en un tono verde un poco oscuro */
+  border: 1px solid #0104ad; /* Borde suave en un tono azul un poco oscuro */
   border-radius: 6px; /* Bordes ligeramente redondeados */
   box-sizing: border-box; /* Incluir padding y borde en el ancho/alto */
   font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif; /* Fuente legible */
   font-size: 16px;
   color: #333333; /* Color de texto oscuro para buen contraste */
-  background-color: #b2fae1; /* ¡Fondo de los campos de texto en un verde pastel muy claro! */
+  background-color: #bab2fa; /* ¡Fondo de los campos de texto en un azul pastel muy claro! */
 }
